@@ -1,4 +1,4 @@
 baseURL = "https://reverent-montalcini-aeb09a.netlify.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "tale"
+title = "Claudia D'Adamo"
+theme = "paper"
