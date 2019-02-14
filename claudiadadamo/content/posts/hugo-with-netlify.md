@@ -4,6 +4,7 @@ date: 2019-02-14T00:00:30-05:00
 ---
 
 I've really struggled with finding a blogging set up that I like. I've been looking for one that is easy to work with, works well, and doesn't cost a lot of money. I have a bunch of blog posts written, in markdown, so the ability to port over my existing work easily is a huge plus. I've messed around with a bunch of options, like:
+
 * wordpress
   * not as technical as I want
   * less customizable (this may have changed since the last time I used it because it's been years)
