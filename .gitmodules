@@ -1,9 +1,6 @@
 [submodule "claudiadadamo/themes/paper"]
 	path = claudiadadamo/themes/paper
 	url = https://github.com/nanxiaobei/hugo-paper.git
-[submodule "claudiadadamo/themes/future"]
-	path = claudiadadamo/themes/future
-	url = https://github.com/jpescador/hugo-future-imperfect.git
 [submodule "claudiadadamo/themes/tale"]
 	path = claudiadadamo/themes/tale
 	url = https://github.com/EmielH/tale-hugo.git
