@@ -1,5 +1,6 @@
 ---
 title: "Removing Dropplets, using Hugo with Netlify"
+author: "claudia"
 date: 2019-02-14T00:00:30-05:00
 ---
 
